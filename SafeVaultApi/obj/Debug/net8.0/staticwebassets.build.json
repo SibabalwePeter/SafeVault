@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ojhaSnsNehRsW+ZPFGK8RZlyHg05NvNiCP/sSfS5oYU=",
+  "Source": "SafeVaultApi",
+  "BasePath": "_content/SafeVaultApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
